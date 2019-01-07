@@ -1,0 +1,12 @@
+{
+    "name": "atrox/laravel-mix-kirby",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Atrox",
+            "email": "mail@atrox.me"
+        }
+    ],
+    "require": {}
+}
